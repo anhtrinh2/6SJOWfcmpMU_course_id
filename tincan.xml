@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6SJOWfcmpMU_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Demo_Tracking</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6SJOWfcmpMU_course_id/68Bv6JlI689" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6SJOWfcmpMU_course_id/5z8q5Gc2DNL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+		</activity>
+		<activity id="http://6SJOWfcmpMU_course_id/5z8q5Gc2DNL/67xfhIRbQCM" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6CcczhVyO6f[.]choice_5bCbk066J8F</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6CcczhVyO6f</id>
+					<description lang="und">Rectangle 2</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_5bCbk066J8F</id>
+					<description lang="und">Rectangle 1</description>
+				</component>
+				<component>
+					<id>choice_5wxdfCG5EfA</id>
+					<description lang="und">Rectangle 3</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://6SJOWfcmpMU_course_id/6JYnvxwImZl" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+	</activities>
+</tincan>
