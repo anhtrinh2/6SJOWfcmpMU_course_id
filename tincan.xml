@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:6iSyaCASIam" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Untitled1</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:6iSyaCASIam/6cMSg7SQSlT" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Untitled1</name>
+			<description lang="und">Untitled1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6iSyaCASIam/6MiNkAYaH4O" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Slide 1</name>
+			<description lang="und">Slide 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6iSyaCASIam/6n70paF7vZ5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Which is True</name>
+			<description lang="und">Which is True</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6iSyaCASIam/6n70paF7vZ5/5wK9hTTwxkv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Which is True</name>
+			<description lang="und">Which is True</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5fkMFjPyvkL</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5fkMFjPyvkL</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6lbG44LR1ES</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6iSyaCASIam/6hPyE9wLccw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple choice</name>
+			<description lang="und">Multiple choice</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6iSyaCASIam/6hPyE9wLccw/64ihywL4JnL" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Multiple choice</name>
+			<description lang="und">Multiple choice</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6K4TzCdyzyM</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_678M8SkzUlP</id>
+					<description lang="und">A</description>
+				</component>
+				<component>
+					<id>choice_6K4TzCdyzyM</id>
+					<description lang="und">B</description>
+				</component>
+				<component>
+					<id>choice_6foBSdhNClK</id>
+					<description lang="und">C</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6iSyaCASIam/6dGojTYfqsW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results Slide</name>
+			<description lang="und">Results Slide</description>
+		</activity>
+	</activities>
+</tincan>
